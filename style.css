@@ -124,7 +124,6 @@ body {
     #929292 110%
   );
   background-blend-mode: multiply;
-
   box-shadow: 0px 4px 4px 0px #29292980, -8px -4px 4px 0px #29292980;
 }
 
@@ -183,7 +182,7 @@ body {
 }
 
 .fallback_img .img {
-  width: 118px;
+  width: 100px;
   transform: rotate(79deg);
   position: absolute;
   top: 10px;
@@ -276,30 +275,35 @@ body {
   left: -49.68px;
   transform: rotate(-11deg);
 }
+
 #near_n_America2 {
   position: relative;
   top: -46.51px;
   left: -67.68px;
   transform: rotate(-11deg);
 }
+
 #near_n_America3 {
   position: relative;
   top: -38.51px;
   left: -103.68px;
   transform: rotate(-11deg);
 }
+
 #s_America {
   position: relative;
   top: 71.49px;
   left: -118.68px;
   transform: rotate(-11deg);
 }
+
 #europe1 {
   position: relative;
   top: 1.49px;
   left: -115.68px;
   transform: rotate(-11deg);
 }
+
 #europe2 {
   position: relative;
   top: -66.51px;
@@ -313,6 +317,7 @@ body {
   left: 61.32px;
   transform: rotate(-11deg);
 }
+
 #africa {
   position: relative;
   top: -8.51px;
@@ -326,6 +331,7 @@ body {
   left: 29.32px;
   transform: rotate(-11deg);
 }
+
 #asia {
   position: relative;
   top: -47.51px;
@@ -339,18 +345,21 @@ body {
   left: -36.68px;
   transform: rotate(-11deg);
 }
+
 #near_aisa2 {
   position: relative;
   top: -34.51px;
   left: -62.68px;
   transform: rotate(-11deg);
 }
+
 #near_aisa3 {
   position: relative;
   top: -72.51px;
   left: -48.68px;
   transform: rotate(-11deg);
 }
+
 #australia {
   position: relative;
   top: -38.51px;
@@ -364,6 +373,7 @@ body {
   left: 185.32px;
   transform: rotate(-11deg);
 }
+
 #near_australia2 {
   position: relative;
   top: -33.51px;
@@ -378,12 +388,14 @@ body {
   scale: 0.8;
   transform: rotate(-11deg);
 }
+
 #lock2 {
   position: relative;
   top: -106.51px;
   left: 64.32px;
   transform: rotate(-11deg);
 }
+
 #lock3 {
   position: relative;
   top: -40.51px;
@@ -403,6 +415,7 @@ body {
   top: -61.51px;
   left: -105.68px;
 }
+
 #check3 {
   position: relative;
   top: -112.51px;
@@ -453,6 +466,7 @@ body {
   outline: 3px dashed #afafaf;
   outline-width: 3px;
 }
+
 .capture {
   display: flex;
   align-items: center;
@@ -479,7 +493,6 @@ body {
   color: #979797;
   font-family: sans-serif;
   font-family: "Titan One", sans-serif;
-
 }
 
 .camera__screen button {
@@ -503,6 +516,7 @@ body {
   cursor: pointer;
   visibility: visible;
 }
+
 #retake_btn {
   position: absolute;
   top: 306px;
@@ -510,6 +524,7 @@ body {
   cursor: pointer;
   visibility: hidden;
 }
+
 #close_btn {
   position: absolute;
   top: 26px;
